@@ -1,0 +1,67 @@
+@media (max-width: 1200px) {
+    body {
+        padding: 15px;
+        border-radius: 20px;
+    }
+
+    h1 {
+        font-size: 26px;
+        padding: 8px;
+    }
+
+    h2 {
+        font-size: 22px;
+        padding: 8px;
+    }
+
+    ul.profissional,
+    ul.curso,
+    ul.habilidade {
+        padding: 10px 15px;
+    }
+
+    div {
+        flex-direction: column;
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    footer ul {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
+
+@media (min-width: 400){
+    body {
+        padding: 15px;
+        border-radius: 20px;
+    }
+
+    h1 {
+        font-size: 26px;
+        padding: 8px;
+    }
+
+    h2 {
+        font-size: 22px;
+        padding: 8px;
+    }
+
+    ul.profissional,
+    ul.curso,
+    ul.habilidade {
+        padding: 10px 15px;
+    }
+
+    div {
+        flex-direction: column;
+        padding: 40px;
+        font-size: 14px;
+    }
+
+    footer ul {
+        flex-direction: column;
+        gap: 15px;
+    }
+}
