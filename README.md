@@ -9,11 +9,6 @@ Esse projeto foi criado com as seguintes tecnologias:
 * **HTML**: Estrutura da página web, organizando os elementos e o conteúdo.
 * **CSS**: Estilos que dão vida à página, definindo cores e outros aspectos visuais.
 
-## Funcionalidades
-* **Informações**: Informações pessoais 
-
-
-
 ## Arquivos
 
 *   `index.html`: Arquivo principal da página web.
