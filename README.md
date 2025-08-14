@@ -18,3 +18,6 @@ Esse projeto foi criado com as seguintes tecnologias:
 ## Contribuições
 
 Sinta-se à vontade para contribuir com este projeto! Você pode me dar dicas e melhorias para o meu currículo.
+
+## Comentarios 
+* **Novidades**: Irei postar o meu projeto do jeito que esta mesmo e ir melhorando conforme for melhorando no curso.
