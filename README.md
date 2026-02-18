@@ -37,9 +37,10 @@ Você pode visualizar o projeto online através do GitHub Pages (quando publicad
 
 ## 📬 Contato
 
-- LinkedIn: https://www.linkedin.com/in/david-botta-martins-jalles-1763a5266/
-- GitHub: https://github.com/DavidMartins22
+- LinkedIn: <a href=" https://www.linkedin.com/in/david-botta-martins-jalles-1763a5266/" target="_blank"></a>
+- GitHub: <a href="https://github.com/DavidMartins22" target="_blank"></a>
 - Whatsapp: (11) 96604-2173
 ---
 
 Desenvolvido por **David Botta Martins Jalles** 🚀
+
